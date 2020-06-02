@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Hello! My name is Nyala Jackson and I am a rising senior majoring in Computer Science at Vassar College. 
 
 ## About My Mentor
 
