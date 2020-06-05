@@ -12,7 +12,7 @@ Hello! I am a rising senior majoring in Computer Science at Vassar College.
 
 ## About My Mentor
 
-Dr.Monica Anderson of the University of Alabama is a specialist in Artifical Intelligence, Robotics, and Computer Science Education. 
+Dr. Monica Anderson of the University of Alabama is a specialist in Artifical Intelligence, Robotics, and Computer Science Education. 
 Her website: http://robotics.cs.ua.edu/
 
 ## About My Project
