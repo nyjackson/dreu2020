@@ -17,7 +17,7 @@ Her website: http://robotics.cs.ua.edu/
 
 ## About My Project
 
-Combining virtual reality and computer science education, Dr. Anderson, Keanna Wright, and I will be working on a program that highlights coding errors by visualizing the code's effect on memory in VR: enabling students to attain a better mental model of the abstractness of memory. I will be using Javascript, specifically node.js and React 360, to create a browser compatible version, while Keanna will be working on an Unity based version. 
+Combining virtual reality and computer science education, Dr. Anderson, Keanna Wright, and I will be working on a program that highlights coding errors by visualizing the code's effect on memory in VR: enabling students to attain a better mental model of the abstractness of memory. I will be using Javascript, specifically node.js and React 360, to create a browser-compatible version, while Keanna will be working on a Unity-based version. 
 
 [My Final Report](files/finalreport.pdf)
 
