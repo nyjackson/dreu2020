@@ -18,7 +18,7 @@ avatar: 9421560.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: njackson@vassar.edu
+  email: nyalajackson@yahoo.com
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
@@ -31,7 +31,7 @@ url: http://nyjackson.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/dreu2020"
 
 #
 # !! You don't need to change any of the configuration flags below !!
